@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/D-bara/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/D-bara/damage-calc-4005-v2-yarn)
+
+
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
